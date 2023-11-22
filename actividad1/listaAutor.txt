@@ -1,0 +1,19 @@
+Gabriel García Márquez, gabriel.garcia@email.com, M
+J. R. R. Tolkien, jrr.tolkien@email.com, M
+George Orwell, george.orwell@email.com, M
+Aldous Huxley, aldous.huxley@email.com, M
+Jane Austen, jane.austen@email.com, F
+Fiódor Dostoyevski, fiodor.dostoyevski@email.com, M
+Vladimir Nabokov, vladimir.nabokov@email.com, M
+Gustave Flaubert, gustave.flaubert@email.com, M
+Marcel Proust, marcel.proust@email.com, M
+Miguel de Cervantes, miguel.cervantes@email.com, M
+Oscar Wilde, oscar.wilde@email.com, M
+Antoine de Saint-Exupéry, antoine.saintexupery@email.com, M
+William Faulkner, william.faulkner@email.com, M
+Jonathan Swift, jonathan.swift@email.com, M
+Arthur Golden, arthur.golden@email.com, M
+Suzanne Collins, suzanne.collins@email.com, F
+J. K. Rowling, jk.rowling@email.com, F
+Victor Hugo, victor.hugo@email.com, M
+C. S. Lewis, cs.lewis@email.com, M
